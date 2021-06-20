@@ -1,2 +1,20 @@
-# string-change
-This is a nice code snippet for changing  a string from uppercase to lower
+# removal of uppercase
+This is a nice code snippet for removing of uppercase character from a string
+
+
+enter the string:
+
+
+ABCDefghuKLMH
+
+
+original string:
+
+
+ABCDefghuKLMH
+ 
+ 
+ After removing the upper case letters,above string is:
+
+
+efghu
